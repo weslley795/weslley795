@@ -26,16 +26,16 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
-      
+  <div>
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: weslley.o.lima@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "www.linkedin.com/in/weslley-de-oliveira-lima-10ba3a1a3">
-      <img width="25" src="linkedin.svg">
-    </a>
+  <a href="mailto:weslley.o.lima@gmail.com">
+    <img width="30" src="gmail.svg" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/weslley-de-oliveira-lima-10ba3a1a3" target="_blank">
+    <img width="25" src="linkedin.svg" alt="LinkedIn">
+  </a>
 </div>
+
   
 
   <p align="center">
