@@ -1,12 +1,18 @@
 ## Faaaala dev, Weslley Lima Aqui!
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center;">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley795&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley795&layout=compact&langs_count=16&theme=great-gatsby" alt="Top Languages" />
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslley795&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslley795&layout=compact&langs_count=16&theme=great-gatsby" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br>
 
