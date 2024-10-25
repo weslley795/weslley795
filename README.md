@@ -29,10 +29,10 @@
    </div>
       
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: weslley.o.lima@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "www.linkedin.com/in/weslley-de-oliveira-lima-10ba3a1a3">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
